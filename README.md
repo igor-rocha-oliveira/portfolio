@@ -9,5 +9,5 @@ O controle das tarefas desse projeto feito no GitHub
 
 :package: Nova funcionalidade
 :up: Atualização
-:beatle:  de bug
+:beatle: correção de bug
 :checkered_flag: Relase
